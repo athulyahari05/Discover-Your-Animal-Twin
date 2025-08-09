@@ -8,7 +8,7 @@
 ### Team Members
 - Team Lead: Athulya Hari - College of engineering kallooppara IHRD
 - Member 2: Neeraja Anil - College of engineering kallooppara IHRD
-- 
+
 ### Project Description
 Upload or snap a photo, and let our playful AI match you with your spirit animal. From majestic lions to sleepy alpacas, find your wild side with a hilarious caption that makes the resemblance unforgettable! 
 
@@ -71,10 +71,10 @@ vercel
 ## Project Documentation
 ### For Software:
 **Screenshots** 
-<img width="1839" height="913" alt="Screenshot 2025-08-09 145241" src="https://github.com/user-attachments/assets/63a8de29-357e-484d-89e1-de62ba53cb3e" />
+<img width="919" height="456" alt="Screenshot 2025-08-09 145241" src="https://github.com/user-attachments/assets/63a8de29-357e-484d-89e1-de62ba53cb3e" />
 
 ### Diagrams
-<img width="356" height="699" alt="Screenshot 2025-08-09 155233" src="https://github.com/user-attachments/assets/47f955c5-f88a-42e6-81c2-d9ed8aa138b4" />
+<img width="178" height="349" alt="Screenshot 2025-08-09 155233" src="https://github.com/user-attachments/assets/47f955c5-f88a-42e6-81c2-d9ed8aa138b4" />
 
 
 # Project Demo
