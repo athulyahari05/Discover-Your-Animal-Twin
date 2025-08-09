@@ -1,5 +1,4 @@
-[What Funny Animal Are You_.webm](https://github.com/user-attachments/assets/709e3ea4-a6cf-4a2c-8e3f-fe81e16b6d0e)# Discover Your Animal Twin! 🎯
-
+# Discover-Your-Animal-Twin
 
 ## Basic Details
 
