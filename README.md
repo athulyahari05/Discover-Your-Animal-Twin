@@ -83,8 +83,8 @@ vercel
 ***Website:*** [Discover-Your-Animal-Twin](https://discover-your-animal-twin.vercel.app/)
 
 # Team Contributions
-- : [Specific contributions]
-- [Name 2]: [Specific contributions]
+- Athulya Hari: Designed the user interface (HTML/CSS/JS), integrated templates with Flask, improved UI/UX for uploads and results, and prepared diagrams/documentation.
+- Neeraja Anil: Developed the Flask backend, implemented image upload and animal-matching logic, created requirements.txt and vercel.json, and deployed the app to Vercel.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
