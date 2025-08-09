@@ -25,36 +25,58 @@ For Software:
 - HTML5 (structure & content)
 - CSS3 (styling & layout)
 - JavaScript (functionality & interactivity)
-- Python (for backend processing, using Flask)]
-- [Flask (Python micro-framework for backend API) ]
-- [OpenCV (image processing & face detection, if matching animals)
+- Python (for backend processing, using Flask)
+- Flask (Python micro-framework for backend API) 
+- OpenCV (image processing & face detection, if matching animals)
 - random (Python, for funny caption generation)
 - Fetch API (JavaScript, for sending data to backend)
-- confetti.js (JavaScript, for celebratory animation)]
-- [VS Code (code editor)
+- confetti.js (JavaScript, for celebratory animation)
+- VS Code (code editor)
 - Git & GitHub (version control & hosting)
 - Browser DevTools (testing & debugging)
-- Webcam API (navigator.mediaDevices.getUserMedia)]
+- Webcam API (navigator.mediaDevices.getUserMedia)
 
 ### Implementation
-For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
+## Installation
+# 1. Clone or extract your project
+unzip Discover-Your-Animal-Twin.zip
+cd Discover-Your-Animal-Twin
+
+# 2. (Optional but recommended) Create a virtual environment
+python -m venv venv
+source venv/bin/activate   # On Mac/Linux
+venv\Scripts\activate      # On Windows
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+## Run (Local Development)
+# Run the Flask app
+python app.py
+
+# By default, it will be available at:
+http://127.0.0.1:5000
+
+# Run (Production with Gunicorn)
+gunicorn app:app
+
+## Deploy to Vercel
+# Install Vercel CLI (once)
+npm install -g vercel
+
+# From inside your project folder
+vercel
 
 ### Project Documentation
-For Software:
 
-### Screenshots 
-<img width="1920" height="1080" alt="Screenshot 2025-08-09 145241" src="https://github.com/user-attachments/assets/c757f0ae-e9c2-4fb3-8b2e-bc8daccffac6" />
+## For Software:
+# Screenshots 
+<img width="1839" height="913" alt="Screenshot 2025-08-09 145241" src="https://github.com/user-attachments/assets/63a8de29-357e-484d-89e1-de62ba53cb3e" />
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
-
-
 
 # Build Photos
 ![Components](Add photo of your components here)
