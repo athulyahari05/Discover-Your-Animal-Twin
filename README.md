@@ -68,10 +68,9 @@ For Software:
 *Explain the final build*
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+***Video***
 
+***Website:*** https://discover-your-animal-twin.vercel.app/
 
 ## Team Contributions
 - : [Specific contributions]
