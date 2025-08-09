@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>What Funny Animal Are You?</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>🐾 Discover Your Animal Twin!</h1>
+        <p>Upload your photo and find your hilarious animal match</p>
+
+        <div id="uploadArea" class="upload-box">
+            <input type="file" id="photoInput" accept="image/*">
+            <label for="photoInput">📸 Click or Drag & Drop Your Photo</label>
+        </div>
+<div class="camera-container">
+    <video id="camera" autoplay playsinline></video>
+    <button id="captureBtn">📸 Capture Photo</button>
+    <canvas id="snapshot" style="display:none;"></canvas>
+</div>
+
+        <button id="uploadBtn">Find My Match!</button>
+
+        <div id="result" class="result-card">
+            <div class="images-container">
+                <div>
+                    <h3>You</h3>
+                    <img id="userImage" style="display:none;">
+                </div>
+                <div>
+                    <h3>Your Animal Twin</h3>
+                    <img id="animalImage" style="display:none;">
+                </div>
+            </div>
+            <p id="caption"></p>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <script src="/static/script.js"></script>
+</body>
+</html>
