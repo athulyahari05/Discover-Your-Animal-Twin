@@ -48,8 +48,7 @@ For Software:
 For Software:
 
 ### Screenshots 
-# <img width="1920" height="1080" alt="Screenshot 2025-08-09 145112" src="https://github.com/user-attachments/assets/b1448a9e-16b5-4749-86e5-fcc579433689" />
-
+<img width="1920" height="1080" alt="Screenshot 2025-08-09 145241" src="https://github.com/user-attachments/assets/c757f0ae-e9c2-4fb3-8b2e-bc8daccffac6" />
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -70,7 +69,7 @@ For Software:
 ### Project Demo
 ***Video***
 
-***Website:*** https://discover-your-animal-twin.vercel.app/
+***Website:*** [Discover-Your-Animal-Twin](https://discover-your-animal-twin.vercel.app/)
 
 ## Team Contributions
 - : [Specific contributions]
