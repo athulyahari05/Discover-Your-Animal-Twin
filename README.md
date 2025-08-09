@@ -6,41 +6,35 @@
 
 
 ### Team Members
-- Team Lead: [Athulya Hari] - [College of engineering kallooppara IHRD]
-- Member 2: [Neeraja Anil] - [College of engineering kallooppara IHRD]
-- Member 3: [Name] - [College]
-
+- Team Lead: Athulya Hari - College of engineering kallooppara IHRD
+- Member 2: Neeraja Anil - College of engineering kallooppara IHRD
+- 
 ### Project Description
-[Upload or snap a photo, and let our playful AI match you with your spirit animal. From majestic lions to sleepy alpacas, find your wild side with a hilarious caption that makes the resemblance unforgettable! ]
+Upload or snap a photo, and let our playful AI match you with your spirit animal. From majestic lions to sleepy alpacas, find your wild side with a hilarious caption that makes the resemblance unforgettable! 
 
 ### The Problem (that doesn't exist)
-[People are constantly wandering through life without knowing which animal they most resemble. This is clearly an urgent issue. Without this knowledge, how can one truly reach peak self-awareness?]
+People are constantly wandering through life without knowing which animal they most resemble. This is clearly an urgent issue. Without this knowledge, how can one truly reach peak self-awareness?
 
 ### The Solution (that nobody asked for)
-[We’ve harnessed the latest in photo recognition (and a healthy dose of absurdity) to finally answer life’s most pressing non-question: “What animal am I?”
-Upload a photo (or take one live), and we’ll pair you with your long-lost animal doppelgänger ]
+We’ve harnessed the latest in photo recognition (and a healthy dose of absurdity) to finally answer life’s most pressing non-question: “What animal am I?”
+Upload a photo (or take one live), and we’ll pair you with your long-lost animal doppelgänger
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [HTML5 (structure & content)
-CSS3 (styling & layout)
-JavaScript (functionality & interactivity)
-Python (for backend processing, using Flask)]
+- HTML5 (structure & content)
+- CSS3 (styling & layout)
+- JavaScript (functionality & interactivity)
+- Python (for backend processing, using Flask)]
 - [Flask (Python micro-framework for backend API) ]
 - [OpenCV (image processing & face detection, if matching animals)
-random (Python, for funny caption generation)
-Fetch API (JavaScript, for sending data to backend)
-confetti.js (JavaScript, for celebratory animation)]
+- random (Python, for funny caption generation)
+- Fetch API (JavaScript, for sending data to backend)
+- confetti.js (JavaScript, for celebratory animation)]
 - [VS Code (code editor)
-Git & GitHub (version control & hosting)
-Browser DevTools (testing & debugging)
-Webcam API (navigator.mediaDevices.getUserMedia)]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Git & GitHub (version control & hosting)
+- Browser DevTools (testing & debugging)
+- Webcam API (navigator.mediaDevices.getUserMedia)]
 
 ### Implementation
 For Software:
@@ -61,14 +55,7 @@ For Software:
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Components](Add photo of your components here)
@@ -85,13 +72,10 @@ For Hardware:
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
+- : [Specific contributions]
 - [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
