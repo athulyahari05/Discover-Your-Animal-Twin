@@ -2,8 +2,8 @@
 
 
 ## Basic Details
-### Team Name: Project pros
 
+### Team Name: Project pros
 
 ### Team Members
 - Team Lead: Athulya Hari - College of engineering kallooppara IHRD
@@ -36,59 +36,49 @@ For Software:
 - Browser DevTools (testing & debugging)
 - Webcam API (navigator.mediaDevices.getUserMedia)
 
-# Implementation
+## Implementation
 
-## Installation
-### 1. Clone or extract your project
+### Installation
+1. Clone or extract your project
 unzip Discover-Your-Animal-Twin.zip
 cd Discover-Your-Animal-Twin
 
-### 2. (Optional but recommended) Create a virtual environment
+2. (Optional but recommended) Create a virtual environment
 python -m venv venv
 source venv/bin/activate   # On Mac/Linux
 venv\Scripts\activate      # On Windows
 
-### 3. Install dependencies
+3. Install dependencies
 pip install -r requirements.txt
 
-## Run (Local Development)
-### Run the Flask app
+### Run (Local Development)
+**Run the Flask app**
 python server.py
 
-### By default, it will be available at:
+**By default, it will be available at:**
 http://127.0.0.1:5000
 
-### Run (Production with Gunicorn)
+**Run (Production with Gunicorn)**
 gunicorn app:app
 
-## Deploy to Vercel
-### Install Vercel CLI (once)
+### Deploy to Vercel
+**Install Vercel CLI (once)**
 npm install -g vercel
 
-## From inside your project folder
+**From inside your project folder**
 vercel
 
-# Project Documentation
-## For Software:
-### Screenshots 
+## Project Documentation
+### For Software:
+**Screenshots** 
 <img width="1839" height="913" alt="Screenshot 2025-08-09 145241" src="https://github.com/user-attachments/assets/63a8de29-357e-484d-89e1-de62ba53cb3e" />
 
-## Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+### Diagrams
+<img width="356" height="699" alt="Screenshot 2025-08-09 155233" src="https://github.com/user-attachments/assets/47f955c5-f88a-42e6-81c2-d9ed8aa138b4" />
 
-## Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 # Project Demo
-***Video***
+***Video:*** [Discover-Your-Animal-Twin](https://discover-your-animal-twin.vercel.app/)
 
 ***Website:*** [Discover-Your-Animal-Twin](https://discover-your-animal-twin.vercel.app/)
 
